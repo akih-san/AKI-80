@@ -42,3 +42,6 @@ http://john.ccac.rwth-aachen.de:8000/as/
 BASIC、TINY BASIC、GAME80関係については、EMUZ80で公開していますので、そちらを
 参照してください。ソースのメモリマップの調整でAKI-80で動作させることが出来ます。
 
+コンソールは、XON/XOFFのフロー制御を行っていますので、端末（TeraTerm等)のXON/XOFF
+フロー制御を有効にしてください。
+
