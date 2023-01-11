@@ -21,11 +21,11 @@ AKI-80ゴールドは、秋月電子通商さんで今でも購入可能なロ�
 CTC0をSIOAに繋いであります。ボーレートは9600bpsで動作するように、プログラムして
 あります。
 
-テンプレートとして、Ｎの電子講座（http://www.apony.com/elec/index.html）
+テンプレートとして、Ｎの電子講座（http://www.apony.com/elec/index.html ）
 
 のソース
 
-（http://www.apony.com/elec/elec10/default.asm）
+（http://www.apony.com/elec/elec10/default.asm ）
 
 を使わせてもらいました。
 
