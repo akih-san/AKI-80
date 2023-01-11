@@ -1,0 +1,25 @@
+AKI-80 MONITORプログラムは、asano様（https://electrelic.com/electrelic/node/1317）が公開
+されているUniversal Monitor（unimon-20220811）をベースに開発しています。
+
+AKI-80 MONITORは、フリーライセンスで公開しています。ライセンスに関してはasano様の
+ライセンスアグリーメントに準じます。変更、改変した際に発生する副次的な事象については、
+改変者が責任を持つこととします。
+
+AKI-80 MONITORは、Macro Assembler AS V1.42(http://john.ccac.rwth-aachen.de:8000/as/)を
+使用して作成されています。使用許諾に関してはASのLicense Agreementに従うものとします。
+
+EMUZ80は、電脳伝説様（https://vintagechips.wordpress.com/2022/03/05/emuz80_reference/）
+によって公開された最小構成で動くレトロなシングルボードコンピュータです。
+EMUZ80-MONは、このコンピューター上で動作するモニタープログラムです。
+
+EMUZ80-MONで公開している。GRANT's BASIC, PALO ALTO TINY BASICについては、電脳伝説様が
+公開しているEMUZ80データパック及び、SBCZ80データパックのソースを使用しています。
+使用許諾については、電脳伝説様の使用条件に従うものとします。
+
+
+この素晴らしいレトロＰＣの世界に誘ってくれたEMUZ80を開発された電脳伝説様と、日々開発、
+改良に取り組んでいらっしゃる皆々様に感謝の意を表します。
+
+2023.1.11 Akihito. Honda
+Aki.h @akih_san
+https://twitter.com/akih_san
