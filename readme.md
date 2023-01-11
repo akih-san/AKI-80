@@ -22,7 +22,12 @@ CTC0をSIOAに繋いであります。ボーレートは9600bpsで動作する�
 あります。
 
 テンプレートとして、Ｎの電子講座（http://www.apony.com/elec/index.html）
-のソース（http://www.apony.com/elec/elec10/default.asm）を使わせてもらいました。
+
+のソース
+
+（http://www.apony.com/elec/elec10/default.asm）
+
+を使わせてもらいました。
 
 アセンブラは、Macro Assembler AS V1.42を使用しています。
 http://john.ccac.rwth-aachen.de:8000/as/
